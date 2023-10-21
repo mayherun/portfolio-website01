@@ -1,0 +1,47 @@
+/* Header section */
+header{
+    margin: 0%;
+    padding: 50px 20px;
+    background-color: rgb(41, 52, 61);
+}
+.navigation{
+    color: bisque;
+}
+.navigation .nav-bar{
+    align-self: right;
+    padding: 20px 20px;
+    font-family: Helvetica;
+    font-weight: 500;
+    margin: 10px 10px;
+    color: aliceblue;
+}
+.navigation .logo{
+    text-align: left;
+}
+
+/* Contact page */
+form{
+    margin: 50px 50px;
+    padding: 20px 20px;
+    background-color: rgb(203, 211, 228);
+    width: min-content;
+    font-size: medium;
+    font-weight: 400;
+}
+.form-items{
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+
+/* Table */
+table, td, th{
+    border: 2px solid black;
+    border-collapse:collapse;
+    text-align: center;
+}
+.row-header{
+    background-color: rgb(38, 37, 44);
+    color: aliceblue;
+    font-family: Helvetica;
+    padding: 10px 10px;
+}
